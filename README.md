@@ -3,4 +3,4 @@ The purpose of this assignment is to have a real-world client like experience. W
 
 [Link to deployed application](https://masonfibkins.github.io/code-refractor/)
 
-![Screenshot]("./horiseon.png")
+![Screenshot](./horiseon.png)
